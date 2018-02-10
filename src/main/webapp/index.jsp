@@ -1,10 +1,11 @@
 <html>
 <head>
-<title>Hello World!</title>
-<title>Hi Kumar</title>
+<title>Hello World2!</title>
+
 </head>
 <body>
 	<h1>Hello World!</h1>
+	<h1>Hi Kumar</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
